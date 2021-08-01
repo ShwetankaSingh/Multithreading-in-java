@@ -31,3 +31,36 @@ class Multithreading
         obj2.start();
 	}
 }
+
+
+
+/*
+OUTPUT
+
+
+C:\Users\hp\Desktop\javas>javac Multithreading.java
+
+C:\Users\hp\Desktop\javas>java Multithreading
+2
+4
+22
+24
+6
+8
+26
+28
+10
+12
+30
+32
+14
+34
+16
+36
+18
+38
+20
+40
+
+
+*/
